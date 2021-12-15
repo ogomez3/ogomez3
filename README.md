@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ogomez3
+- 👀 I’m interested in understanding Github.
+- 🌱 I’m currently learning React Native.
+- I am new to this but excited to learn.
